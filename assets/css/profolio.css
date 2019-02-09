@@ -1,0 +1,182 @@
+* {
+    box-sizing: border-box;
+  }
+
+body {
+    font-family: 'Rokkitt', serif;
+    font-size: 140%;
+    background-color: white;
+    
+}
+
+.bg-primary {
+    padding-top: 0%;
+    background: white;
+}
+
+.navPosition {
+    background-color: white;
+    padding-bottom: 7%;;
+}
+
+@media screen and (max-width: 710px) {
+    .navPosition {
+        padding-bottom: 13%;
+    }
+}
+
+.navBorder:hover {
+    background-color: white;
+    color: #A5CFC9;
+    padding: 2%;
+    border-radius: 5px;
+    padding-bottom:7%;
+}
+
+.nav-link {
+    color: black;
+    font-weight: bolder;
+    font-size: 125%;
+}
+
+@media screen and (max-width: 476px) {
+    .navPosition {
+        font-size: 75%;
+    }
+}
+
+.container {
+    width: auto;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.introDiv {
+    background-color: white;
+    padding-left: 3%;
+    padding-bottom: 5%;
+    text-align: center;
+    font-weight: bold;
+
+
+}
+
+
+.name {
+    font-weight: bolder;
+    font-size: 300%;
+    margin-top: 8%;
+
+}
+
+.profession {
+    background-color: white;
+    font-weight: bolder;
+    font-size: 250%;
+}
+
+
+.skills {
+    background-color: white;
+    font-size: 155%;
+    font-weight: bolder;
+}
+
+.photoDiv {
+    background-color: white;
+    text-align: center;
+}
+
+.profilePic {
+    background-color: white;
+    width: 60%;
+    border-style: solid;
+    border-color: white;
+    border-width: 15px;
+    border-bottom-width: 60px;
+    text-align: center;
+}
+
+.bg-secondary {
+    background-color: white;
+}
+
+.aboutSection {
+    background-color: white;
+    text-align: center;
+    color: black;
+    padding-bottom: 4%;
+    padding-top: 1%;
+}
+
+.aboutParagraph {
+    text-align: left;
+    color:black;
+    font-weight:bolder;
+    font-size: 150%;
+}
+
+.portfolio {
+    color:  black;
+    text-align: center;
+    padding-top: 1%;
+    padding-bottom: 5%;
+
+}
+
+.thumbnailWrapper {
+    padding-left: 5%;
+    padding-right: 5%;
+    text-align: center;
+    background-color: white;
+}
+
+.imgMod {
+    width: 100%;
+    height: 100%;
+    padding: 2%;;
+    border-style: solid;
+    border-color: black;
+    border-width: medium;
+    margin: 3%;
+    margin-bottom: 5%;
+    margin-top: 5%;
+}
+
+.projectName {
+    color: black;
+    font-weight: bolder;
+}
+#lala{
+    background-color: white;
+}
+.contact {
+    text-align: center;
+    padding-top: 1%;
+    padding-bottom: 2%;
+}
+
+.bg-info{
+    background-color: white;
+}
+
+button {
+    border-radius: 5px;
+    margin-bottom: 1%;
+    background-color: white;
+    border-color: black;
+    padding-bottom:7px;
+}
+
+button:hover {
+    background-color: black;
+    color: #A5CFC9;
+}
+
+.footer {
+    text-align: center;
+    background-color: white;
+    color:black;
+    font-size: 100%;
+    padding: 1%;
+}
