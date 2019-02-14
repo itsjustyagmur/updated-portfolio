@@ -5,10 +5,7 @@
 body {
     font-family: 'Rokkitt', serif;
     font-size: 140%;
-
-    
-}
-
+   }
 .navPosition {
     padding-bottom: 7%;;
 }
@@ -53,6 +50,7 @@ body {
     font-weight: bold;
     font-weight: bolder;
     margin-top: 8%;
+    color: white;
 
 }
 
@@ -102,7 +100,6 @@ body {
     padding-top: 1%;
     padding-bottom: 2%;
 }
-
 
 button {
     border-radius: 5px;
