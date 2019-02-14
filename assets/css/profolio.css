@@ -51,32 +51,10 @@ body {
     padding-bottom: 5%;
     text-align: center;
     font-weight: bold;
-
-
-}
-
-
-.name {
     font-weight: bolder;
-    font-size: 300%;
     margin-top: 8%;
 
 }
-
-.profession {
-   
-    font-weight: bolder;
-    font-size: 250%;
-}
-
-
-.skills {
-
-    font-size: 155%;
-    font-weight: bolder;
-}
-
-
 
 .aboutSection {
     text-align: center;
@@ -109,10 +87,7 @@ body {
 .imgMod {
     width: 100%;
     height: 100%;
-    padding: 2%;;
-    border-style: solid;
-    border-color: black;
-    border-width: medium;
+    padding: 2%;
     margin: 3%;
     margin-bottom: 5%;
     margin-top: 5%;
