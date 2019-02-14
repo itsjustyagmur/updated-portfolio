@@ -5,17 +5,11 @@
 body {
     font-family: 'Rokkitt', serif;
     font-size: 140%;
-    background-color: white;
+
     
 }
 
-.bg-primary {
-    padding-top: 0%;
-    background: white;
-}
-
 .navPosition {
-    background-color: white;
     padding-bottom: 7%;;
 }
 
@@ -26,7 +20,6 @@ body {
 }
 
 .navBorder:hover {
-    background-color: white;
     color: #A5CFC9;
     padding: 2%;
     border-radius: 5px;
@@ -52,7 +45,8 @@ body {
 }
 
 .introDiv {
-    background-color: white;
+    font-family: 'Rokkitt', serif;
+    font-size: 10pt;
     padding-left: 3%;
     padding-bottom: 5%;
     text-align: center;
@@ -70,39 +64,21 @@ body {
 }
 
 .profession {
-    background-color: white;
+   
     font-weight: bolder;
     font-size: 250%;
 }
 
 
 .skills {
-    background-color: white;
+
     font-size: 155%;
     font-weight: bolder;
 }
 
-.photoDiv {
-    background-color: white;
-    text-align: center;
-}
 
-.profilePic {
-    background-color: white;
-    width: 60%;
-    border-style: solid;
-    border-color: white;
-    border-width: 15px;
-    border-bottom-width: 60px;
-    text-align: center;
-}
-
-.bg-secondary {
-    background-color: white;
-}
 
 .aboutSection {
-    background-color: white;
     text-align: center;
     color: black;
     padding-bottom: 4%;
@@ -113,7 +89,6 @@ body {
     text-align: left;
     color:black;
     font-weight:bolder;
-    font-size: 150%;
 }
 
 .portfolio {
@@ -128,7 +103,7 @@ body {
     padding-left: 5%;
     padding-right: 5%;
     text-align: center;
-    background-color: white;
+    
 }
 
 .imgMod {
@@ -147,35 +122,23 @@ body {
     color: black;
     font-weight: bolder;
 }
-#lala{
-    background-color: white;
-}
 .contact {
     text-align: center;
     padding-top: 1%;
     padding-bottom: 2%;
 }
 
-.bg-info{
-    background-color: white;
-}
 
 button {
     border-radius: 5px;
     margin-bottom: 1%;
-    background-color: white;
     border-color: black;
     padding-bottom:7px;
 }
 
-button:hover {
-    background-color: black;
-    color: #A5CFC9;
-}
 
 .footer {
     text-align: center;
-    background-color: white;
     color:black;
     font-size: 100%;
     padding: 1%;
